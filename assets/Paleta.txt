@@ -1,0 +1,5 @@
+.color1 { #fc5c5b }; //rosa
+.color2 { #f66f6f }; //preto
+.color3 { #04040c };
+.color4 { #747474 };
+.color5 { #cececf };
